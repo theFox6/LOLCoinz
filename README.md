@@ -1,4 +1,4 @@
-#LOL coinz
+# LOL coinz
 
 A simple game based on taking away coins.
 
